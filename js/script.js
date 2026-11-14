@@ -1,4 +1,4 @@
-let boton=document.getElementById("trivia");
+let boton=document.getElementById("comprobar");
 
 boton.addEventListener("click", function() {
     let puntaje = 0;
